@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class date
+class Date
 {
 private:
     int day, month, year;
