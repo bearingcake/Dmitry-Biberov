@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class sum
+class Sum
 {
 private:
     int x,y;
