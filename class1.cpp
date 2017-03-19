@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class hello
+class Hello
 {
 public:
     void HelloWorld()
